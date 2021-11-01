@@ -5,4 +5,4 @@ Quick reference sheets for the Twilight Imperium 4th Edition board game.
 ![Rules](rules/rules.png)
 
 ## Technologies Summary
-![Technologies](technologies/technologies_horizontal.png)
+![Technologies](technologies/technologies_vertical.png)
