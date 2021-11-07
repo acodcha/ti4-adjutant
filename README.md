@@ -4,7 +4,6 @@ Quick reference sheets for the Twilight Imperium 4th Edition board game.
 - [Rules Summary](#rules-summary)
 - [Technologies Summary](#technologies-summary)
 - [License](#license)
-- [Maintainer](#maintainer)
 
 ## Rules Summary
 ![Rules](rules/rules.png)
@@ -29,9 +28,6 @@ My own content is licensed under a [Creative Commons Attribution 4.0 Internation
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-[^ Back to Top](#ti4-reference)
-
-## Maintainer
-Alexandre Coderre-Chabot (<https://github.com/acodcha>)
+Maintainer: Alexandre Coderre-Chabot (<https://github.com/acodcha>)
 
 [^ Back to Top](#ti4-reference)
