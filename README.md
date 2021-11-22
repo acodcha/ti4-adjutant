@@ -1,6 +1,4 @@
 # TI4 Reference
-Quick reference sheets for the Twilight Imperium 4th Edition board game by Fantasy Flight Games.
-
 - [Official "Learn to Play" Booklet](#official-learn-to-play-booklet)
 - [Official "Living Rules Reference" Booklet](#official-living-rules-reference-booklet)
 - [Official "Guide to the Imperium" Handbook](#official-guide-to-the-imperium-handbook)
