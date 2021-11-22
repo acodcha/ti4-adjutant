@@ -1,12 +1,12 @@
 # TI4 Reference
+Rules references and summaries of the official Twilight Imperium 4th Edition board game by Fantasy Flight Games, organized for ease of use.
+
 - [Official "Learn to Play" Booklet](#official-learn-to-play-booklet)
 - [Official "Living Rules Reference" Booklet](#official-living-rules-reference-booklet)
 - [Official "Guide to the Imperium" Handbook](#official-guide-to-the-imperium-handbook)
 - [Wiki](#wiki)
 - [Rules Summary](#rules-summary)
 - [Technologies Summary](#technologies-summary)
-
-This work is a collection of lists and summaries of the official Twilight Imperium 4th Edition board game by Fantasy Flight Games, organized for ease of use. My own rules summary and technologies summary are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
 
 ## Official "Learn to Play" Booklet
 - [**Official "Learn to Play" Booklet**](https://images-cdn.fantasyflightgames.com/filer_public/f3/c6/f3c66512-8e19-4f30-a0d4-d7d75701fd37/ti-k0289_learn_to_playcompressed.pdf)
@@ -37,3 +37,5 @@ This work is a collection of lists and summaries of the official Twilight Imperi
 ![Technologies Summary](technologies_summary/technologies_summary_vertical.png)
 
 [^ Back to Top](#ti4-reference)
+
+Note: The Rules Summary and Technologies Summary are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
