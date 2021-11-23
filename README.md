@@ -6,9 +6,9 @@ Rules references and summaries of the Twilight Imperium 4th Edition board game b
 - [Technologies Summary](#technologies-summary)
 
 ## Official References
-- [Official "Learn to Play" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/f3/c6/f3c66512-8e19-4f30-a0d4-d7d75701fd37/ti-k0289_learn_to_playcompressed.pdf)
-- [Official "Living Rules Reference" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf)
-- [Official "Guide to the Imperium" Handbook](https://images-cdn.fantasyflightgames.com/filer_public/b6/d9/b6d969a2-21c2-4b1e-8d6f-ac6fec456b88/guide_to_the_imperium_10_web.pdf)
+- ["Learn to Play" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/f3/c6/f3c66512-8e19-4f30-a0d4-d7d75701fd37/ti-k0289_learn_to_playcompressed.pdf)
+- ["Living Rules Reference" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf)
+- ["Guide to the Imperium" Handbook](https://images-cdn.fantasyflightgames.com/filer_public/b6/d9/b6d969a2-21c2-4b1e-8d6f-ac6fec456b88/guide_to_the_imperium_10_web.pdf)
 - [Wiki](https://twilight-imperium.fandom.com/wiki/Twilight_Imperium_Wiki)
     - [Factions](https://twilight-imperium.fandom.com/wiki/Factions)
     - [Units](https://twilight-imperium.fandom.com/wiki/Units)
