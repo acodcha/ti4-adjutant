@@ -1,4 +1,4 @@
-# TI4 Brief
+# TI4 Adjutant
 References and summaries for the Twilight Imperium 4th Edition board game by Fantasy Flight Games.
 
 - [Official References](#official-references)
