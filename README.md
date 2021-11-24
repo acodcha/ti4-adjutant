@@ -29,4 +29,4 @@ References and summaries for the Twilight Imperium 4th Edition board game by Fan
 
 [^ Back to Top](#ti4-adjutant)
 
-Note: The Rules Summary and Technologies Summary are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
+The Rules Summary and Technologies Summary are summarized from the Twilight Imperium 4th Edition board game by Fantasy Flight Games and licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
