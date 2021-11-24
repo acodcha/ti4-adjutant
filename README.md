@@ -11,21 +11,21 @@ References and summaries for the Twilight Imperium 4th Edition board game by Fan
 - ["Guide to the Imperium" Handbook](https://images-cdn.fantasyflightgames.com/filer_public/b6/d9/b6d969a2-21c2-4b1e-8d6f-ac6fec456b88/guide_to_the_imperium_10_web.pdf)
 - [Wiki](https://twilight-imperium.fandom.com/wiki/Twilight_Imperium_Wiki)
     - [Factions](https://twilight-imperium.fandom.com/wiki/Factions)
+    - [Systems and Planets](https://twilight-imperium.fandom.com/wiki/Planets_and_Systems)
     - [Units](https://twilight-imperium.fandom.com/wiki/Units)
-    - [Planets and Systems](https://twilight-imperium.fandom.com/wiki/Planets_and_Systems)
     - [Technologies](https://twilight-imperium.fandom.com/wiki/Technology)
     - [Cards, Tokens, and Sheets](https://twilight-imperium.fandom.com/wiki/Player_Components)
 
-[^ Back to Top](#ti4-reference)
+[^ Back to Top](#ti4-adjutant)
 
 ## Rules Summary
 ![Rules Summary](rules_summary/rules_summary.png)
 
-[^ Back to Top](#ti4-reference)
+[^ Back to Top](#ti4-adjutant)
 
 ## Technologies Summary
 ![Technologies Summary](technologies_summary/technologies_summary_vertical.png)
 
-[^ Back to Top](#ti4-reference)
+[^ Back to Top](#ti4-adjutant)
 
 Note: The Rules Summary and Technologies Summary are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
