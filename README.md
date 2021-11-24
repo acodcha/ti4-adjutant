@@ -1,5 +1,5 @@
 # TI4 Brief
-References and summaries of the Twilight Imperium 4th Edition board game by Fantasy Flight Games.
+References and summaries for the Twilight Imperium 4th Edition board game by Fantasy Flight Games.
 
 - [Official References](#official-references)
 - [Rules Summary](#rules-summary)
