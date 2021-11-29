@@ -20,12 +20,12 @@ References and summaries for the Twilight Imperium 4th Edition board game by Fan
 [^ Back to Top](#ti4-adjutant)
 
 ## Rules Summary
-![Rules Summary](rules_summary/rules_summary.png)
+![Rules Summary](files/rules_summary.png)
 
 [^ Back to Top](#ti4-adjutant)
 
 ## Technologies Summary
-![Technologies Summary](technologies_summary/technologies_summary_vertical.png)
+![Technologies Summary](files/technologies_summary_vertical.png)
 
 [^ Back to Top](#ti4-adjutant)
 
