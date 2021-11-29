@@ -1,7 +1,8 @@
 # TI4 Adjutant
-References and summaries for the Twilight Imperium 4th Edition board game by Fantasy Flight Games.
+References and summaries for the Twilight Imperium 4th Edition (TI4) board game by Fantasy Flight Games.
 
 - [Official References](#official-references)
+- [Unofficial References](#unofficial-references)
 - [Rules Summary](#rules-summary)
 - [Technologies Summary](#technologies-summary)
 
@@ -19,6 +20,18 @@ References and summaries for the Twilight Imperium 4th Edition board game by Fan
 
 [^ Back to Top](#ti4-adjutant)
 
+## Unofficial References
+- [Steam Tabletop Simulator TI4 Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1288687076)
+- [Discord TI4 Server](https://discord.com/invite/X7ERcqPFkn)
+- [Reddit TI4 Subreddit](https://www.reddit.com/r/twilightimperium)
+- [BoardGameGeek TI4 Forum](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition/forums/0)
+- [Space Cats Peace Turtles Podcast](https://spacecatspeaceturtles.com)
+- ["How to Play TI4" Video by RTFM](https://www.youtube.com/watch?v=_u2xEap5hBM)
+- ["How to Play TI4 Expansion" Video by RTFM](https://www.youtube.com/watch?v=AltGwY-bmfY)
+- ["TI4 Review" Video by Shut Up and Sit Down](https://www.youtube.com/watch?v=PLybps39ZwM)
+
+[^ Back to Top](#ti4-adjutant)
+
 ## Rules Summary
 ![Rules Summary](files/rules_summary.png)
 
@@ -29,4 +42,4 @@ References and summaries for the Twilight Imperium 4th Edition board game by Fan
 
 [^ Back to Top](#ti4-adjutant)
 
-The Rules Summary and Technologies Summary are summarized from the Twilight Imperium 4th Edition board game by Fantasy Flight Games and licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
+The Rules Summary and Technologies Summary are summarized from the Twilight Imperium 4th Edition board game by Fantasy Flight Games and licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0). The contents, copyrights, and trademarks of everything involving Twilight Imperium 4th Edition are exclusively held by Fantasy Flight Games; I make no claim to any of these in any way.
