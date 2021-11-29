@@ -24,7 +24,6 @@ References and summaries for the Twilight Imperium 4th Edition (TI4) board game 
 - [Steam Tabletop Simulator TI4 Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1288687076)
 - [Discord TI4 Server](https://discord.com/invite/X7ERcqPFkn)
 - [Reddit TI4 Subreddit](https://www.reddit.com/r/twilightimperium)
-- [BoardGameGeek TI4 Forum](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition/forums/0)
 - [Space Cats Peace Turtles Podcast](https://spacecatspeaceturtles.com)
 - ["How to Play TI4" Video by RTFM](https://www.youtube.com/watch?v=_u2xEap5hBM)
 - ["How to Play TI4 Expansion" Video by RTFM](https://www.youtube.com/watch?v=AltGwY-bmfY)
