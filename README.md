@@ -1,4 +1,4 @@
-· [Official References](#official-references) · [Unofficial References](#unofficial-references) · [Rules Summary](#rules-summary) · [Technologies Summary](#technologies-summary) ·
+[Official References](#official-references) | [Unofficial References](#unofficial-references) | [Rules Summary](#rules-summary) | [Technologies Summary](#technologies-summary)
 
 # Official References
 - ["Learn to Play" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/f3/c6/f3c66512-8e19-4f30-a0d4-d7d75701fd37/ti-k0289_learn_to_playcompressed.pdf)
