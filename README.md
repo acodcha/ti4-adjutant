@@ -34,10 +34,14 @@ References and summaries for the Twilight Imperium 4th Edition (TI4) board game 
 ## Rules Summary
 ![Rules Summary](files/rules_summary.png)
 
+<img src="files/rules_summary.png" width="640">
+
 [(Back to Top)](#)
 
 ## Technologies Summary
 ![Technologies Summary](files/technologies_summary_vertical.png)
+
+<img src="files/technologies_summary_vertical.png" width="640">
 
 [(Back to Top)](#)
 
