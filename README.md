@@ -18,7 +18,7 @@ References and summaries for the Twilight Imperium 4th Edition (TI4) board game 
     - [Technologies](https://twilight-imperium.fandom.com/wiki/Technology)
     - [Cards, Tokens, and Sheets](https://twilight-imperium.fandom.com/wiki/Player_Components)
 
-[^ Back to Top](#ti4-adjutant)
+[Back to Top](#ti4-adjutant)
 
 ## Unofficial References
 - [Steam Tabletop Simulator TI4 Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1288687076)
@@ -29,16 +29,16 @@ References and summaries for the Twilight Imperium 4th Edition (TI4) board game 
 - ["How to Play TI4 Expansion" Video by RTFM](https://www.youtube.com/watch?v=AltGwY-bmfY)
 - ["TI4 Review" Video by Shut Up and Sit Down](https://www.youtube.com/watch?v=PLybps39ZwM)
 
-[^ Back to Top](#ti4-adjutant)
+[Back to Top](#ti4-adjutant)
 
 ## Rules Summary
 ![Rules Summary](files/rules_summary.png)
 
-[^ Back to Top](#ti4-adjutant)
+[Back to Top](#ti4-adjutant)
 
 ## Technologies Summary
 ![Technologies Summary](files/technologies_summary_vertical.png)
 
-[^ Back to Top](#ti4-adjutant)
+[Back to Top](#ti4-adjutant)
 
 The Rules Summary and Technologies Summary are summarized from the Twilight Imperium 4th Edition board game by Fantasy Flight Games and licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0). The contents, copyrights, and trademarks of everything involving Twilight Imperium 4th Edition are exclusively held by Fantasy Flight Games; I make no claim to any of these in any way.
