@@ -1,6 +1,7 @@
 [Official References](#official-references) · [Unofficial References](#unofficial-references) · [Rules Summary](#rules-summary) · [Technologies Summary](#technologies-summary)
 
 # Official References
+
 - [Official Website](https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition)
     - ["Learn to Play" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/f3/c6/f3c66512-8e19-4f30-a0d4-d7d75701fd37/ti-k0289_learn_to_playcompressed.pdf)
     - ["Prophecy of Kings Expansion" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/c4/b9/c4b94e1e-d392-4ef8-a305-a37bb5660be3/ti10_rulebook_web.pdf)
@@ -18,6 +19,7 @@
 [(Back to Top)](#)
 
 # Unofficial References
+
 - [Steam Tabletop Simulator TI4 Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1288687076)
 - [Discord TI4 Server](https://discord.com/invite/X7ERcqPFkn)
 - [Reddit TI4 Subreddit](https://www.reddit.com/r/twilightimperium)
@@ -29,11 +31,13 @@
 [(Back to Top)](#)
 
 # Rules Summary
+
 ![Rules Summary](files/rules_summary.png)
 
 [(Back to Top)](#)
 
 # Technologies Summary
+
 ![Technologies Summary](files/technologies_summary_vertical.png)
 
 [(Back to Top)](#)
