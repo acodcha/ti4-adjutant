@@ -9,6 +9,7 @@
     - ["Guide to the Imperium" Handbook](https://images-cdn.fantasyflightgames.com/filer_public/b6/d9/b6d969a2-21c2-4b1e-8d6f-ac6fec456b88/guide_to_the_imperium_10_web.pdf)
     - ["Codex Volume I: Ordinian" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/c7/c2/c7c2ac85-8d7a-46f1-a9c0-d633d89865ef/ti_codex_1_rules_compressed.pdf)
     - ["Codex Volume II: Affinity" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/ff/fe/fffe5e9d-33fb-4149-a3a2-cd6dfadb4de3/ti_codex_ii_rules_web.pdf)
+    - ["Codex Volume III: Vigil" Booklet](https://images-cdn.fantasyflightgames.com/filer_public/35/e1/35e10f37-4b6d-4479-a117-4e2c571ddfa7/ti_codex_volume_3_vigil_v2_1-compressed.pdf)
 - [Wiki](https://twilight-imperium.fandom.com/wiki/Twilight_Imperium_Wiki)
     - [Factions](https://twilight-imperium.fandom.com/wiki/Factions)
     - [Systems and Planets](https://twilight-imperium.fandom.com/wiki/Planets_and_Systems)
