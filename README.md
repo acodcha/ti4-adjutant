@@ -1,3 +1,5 @@
+[View on GitHub.io](https://acodcha.github.io/ti4-adjutant) · [View on GitHub.com](https://github.com/acodcha/ti4-adjutant)
+
 [Official References](#official-references) · [Unofficial References](#unofficial-references) · [Rules Summary](#rules-summary) · [Technologies Summary](#technologies-summary)
 
 # Official References
