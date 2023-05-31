@@ -96,14 +96,6 @@ a:active {
   text-decoration: underline;
 }
 
-code {
-  color: #aaaaaa;
-  font-family: Consolas, monaco, monospace;
-  font-size: 1rem;
-  line-height: 1.4rem;
-  background-color: #222222;
-}
-
 h1 {
   color: #cccccc;
   font-size: 2.8rem;
@@ -121,21 +113,6 @@ h1 {
 }
 
 h2 {
-  color: #cccccc;
-  font-size: 2.8rem;
-  font-weight: normal;
-  line-height: 3.92rem;
-  margin-bottom: 0;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0;
-  padding-bottom: 0;
-  padding-left: auto;
-  padding-right: auto;
-  padding-top: 0;
-}
-
-h3 {
   color: #cccccc;
   font-size: 2rem;
   font-weight: normal;
@@ -159,22 +136,6 @@ hr {
   margin-left: auto;
   margin-right: auto;
   margin-top: 1.4rem;
-  padding-bottom: 0;
-  padding-left: auto;
-  padding-right: auto;
-  padding-top: 0;
-}
-
-hr.double {
-  border-bottom: 0.5px dashed #444444;
-  border-left: 0px;
-  border-right: 0px;
-  border-top: 0.5px dashed #444444;
-  height: 2px;
-  margin-bottom: 2rem;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 2rem;
   padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
