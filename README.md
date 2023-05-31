@@ -35,13 +35,13 @@
 
 # Rules Summary
 
-![Rules Summary](files/rules_summary.png)
+![Rules Summary](files/rules_summary_light.png)
 
 [(Back to Top)](#)
 
 # Technologies Summary
 
-![Technologies Summary](files/technologies_summary_vertical.png)
+![Technologies Summary](files/technologies_summary_light.png)
 
 [(Back to Top)](#)
 
