@@ -62,10 +62,6 @@ body {
   padding-top: 4rem;
 }
 
-a.back {
-  font-size: 0.8rem;
-}
-
 a:link {
   background-color: transparent;
   color: #93b4dd;
@@ -90,6 +86,59 @@ a:active {
   text-decoration: underline;
 }
 
+button {
+  background-color: #222222;
+  border: none;
+  border-radius: 8px;
+  color: #93b4dd;
+  cursor: pointer;
+  display: block;
+  font-size: 0.8rem;
+  line-height: 1.12rem;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  text-align: center;
+  text-decoration: none;
+}
+
+button:visited {
+  color: #93b4dd;
+  text-decoration: none;
+}
+
+button:hover {
+  color: #b6d3f5;
+  text-decoration: underline;
+}
+
+button:active {
+  color: #b6d3f5;
+  text-decoration: underline;
+}
+
+caption {
+  color: #cccccc;
+  display: table-caption;
+  font-size: 2rem;
+  font-weight: normal;
+  line-height: 2.8rem;
+  text-align: center;
+}
+
+code {
+  color: #bbbbbb;
+  font-family: Consolas, monaco, monospace;
+  font-size: 1rem;
+  line-height: 1.4rem;
+  background-color: #222222;
+}
+
 h1 {
   color: #cccccc;
   font-size: 2.8rem;
@@ -99,7 +148,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
   padding-top: 0;
@@ -119,6 +168,7 @@ h2 {
   padding-left: auto;
   padding-right: auto;
   padding-top: 0;
+  text-align: left;
 }
 
 hr {
@@ -139,6 +189,22 @@ hr {
 img {
   max-height: 100%;
   max-width: 100%;
+}
+
+p.contents {
+  color: #cccccc;
+  font-size: 1.4rem;
+  font-weight: normal;
+  line-height: 2rem;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 0;
+  text-align: center;
 }
 
 p.license {
@@ -167,23 +233,8 @@ p.subtitle {
   padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
-  padding-top: 0;
+  padding-top: 0.5rem;
   text-align: center;
-}
-
-p.subsubtitle {
-  color: #aaaaaa;
-  font-size: 0.8rem;
-  line-height: 1.12rem;
-  margin-bottom: 0;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0;
-  padding-bottom: 0;
-  padding-left: auto;
-  padding-right: auto;
-  padding-top: 0;
-  text-align: right;
 }
 
 ul {
